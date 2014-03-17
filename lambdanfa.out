@@ -1,0 +1,6 @@
+The word abb is accepted by the NFA.
+The word abbb is accepted by the NFA.
+The word aa is accepted by the NFA.
+The word aab is accepted by the NFA.
+The word bbaa is not accepted by the NFA.
+The word bbbbbbbbb is accepted by the NFA.

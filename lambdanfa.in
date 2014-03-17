@@ -1,0 +1,86 @@
+5 9
+0
+2
+2 3
+0 a 4
+0 a 1
+0 0 1
+4 a 3
+1 0 3
+1 b 2
+2 b 3
+2 0 3
+3 0 1
+6
+abb
+abbb
+aa
+aab
+bbaa
+bbbbbbbbb
+
+
+
+15
+bbbbbb
+bbbbbbb
+bbaa
+aab
+aa
+abbbbaa
+aab
+abbb
+bbaaaaaaaaaaa
+abb
+abbb
+aa
+aab
+a
+bbbbbbbb
+
+
+7 10
+0
+1
+3
+0 0 1
+0 a 1
+0 a 4
+4 a 5
+4 a 6
+6 a 5
+5 0 1
+1 0 2
+2 b 3
+3 b 3
+6
+aabbb
+abb
+ab
+b
+a
+bbbbbbbbbb
+
+
+
+
+5 5
+1
+1
+5
+1 a 2
+2 b 3
+3 c 2
+2 b 4
+4 0 5
+4
+abc
+ab
+a
+c
+
+
+
+
+
+
