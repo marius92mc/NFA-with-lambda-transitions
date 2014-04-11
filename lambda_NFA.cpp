@@ -255,6 +255,8 @@ int LambdaNFA::print()
 		else
 			fprintf(out, "The word %s is not accepted by the NFA.\n", s);
 	}
+
+	delete [] s;
 	return 1;
 }
 
