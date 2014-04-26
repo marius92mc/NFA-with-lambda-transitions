@@ -1,6 +1,8 @@
 NFA-with-lambda-transitions
 ===========================
 
+Nondeterministic finite automaton - http://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+
 Given a NFA that can also have lambda transitions, and a set of words, the program outputs whether or not those words are recognized by the automaton or not.
 
 
