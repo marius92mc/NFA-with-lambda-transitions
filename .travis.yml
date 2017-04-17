@@ -1,0 +1,5 @@
+language: C++
+sudo: required 
+
+script: cd src/; g++ -o lambda_NFA.o lambda_NFA.cpp 
+
