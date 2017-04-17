@@ -1,5 +1,7 @@
 # NFA-with-lambda-transitions
 
+[![Build Status](https://travis-ci.org/marius92mc/NFA-with-lambda-transitions.svg?branch=master)](https://travis-ci.org/marius92mc/NFA-with-lambda-transitions)
+
 Nondeterministic finite automaton - http://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
 
 Given a NFA that can also have lambda transitions, and a set of words, 
